@@ -1,0 +1,6 @@
+{
+        "name"        : "Orthodox-Union/bootstrap-3-shortcodes",
+        "description" : "Bootstrap Shortcodes",
+        "type"        : "wordpress-plugin",
+        "version"     : "1.0"
+}
